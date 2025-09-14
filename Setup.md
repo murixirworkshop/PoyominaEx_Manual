@@ -48,7 +48,7 @@ Hierarchy上のポヨミナに、PoyominaEx.prefabをドラッグ&ドロップ�
 
 ![image-20250914154858483](Images/PoyoEx3.png)
 
-## 7. **アップロード**  
+## 5. **アップロード**  
 
 - Unity のメニューからVRChat SDK -> Show Control Panel で VRChat SDK の Control Panel を開き、VRChatのIDでログインしてください。
 
