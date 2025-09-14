@@ -35,11 +35,11 @@ Hierarchy上のポヨミナに、PoyominaEx.prefabをドラッグ&ドロップ�
 このステップは、ポヨミナのpresetを改変せずに使う場合は不要です。
 改変してテクスチャを変更している場合はこれを参考に設定してください。
 
-1.まず使用した.prefabのマテリアルを選択します。
+1. まず使用した.prefabのマテリアルを選択します。
 
-​	06Ex_PoyoEx直下のPoyominaEx.prefabを使用した場合 --> /06Ex_PoyoEx/02_Materials/Preset1/
-​	06Ex_PoyoEx/10_Presets/Preset2/のPoyominaEx.prefabを使用した場合 --> /06Ex_PoyoEx/02_Materials/Preset2/
-​	06Ex_PoyoEx/10_Presets/Preset3/のPoyominaEx.prefabを使用した場合 --> /06Ex_PoyoEx/02_Materials/Preset3/
+​	06Ex_PoyoEx直下のPoyominaEx.prefabを使用した場合 --> /06Ex_PoyoEx/02_Materials/Preset1/<BR>
+​	06Ex_PoyoEx/10_Presets/Preset2/のPoyominaEx.prefabを使用した場合 --> /06Ex_PoyoEx/02_Materials/Preset2/<BR>
+​	06Ex_PoyoEx/10_Presets/Preset3/のPoyominaEx.prefabを使用した場合 --> /06Ex_PoyoEx/02_Materials/Preset3/<BR>
 
 ![image-20250914154200383](Images/PoyoEx2.png)
 

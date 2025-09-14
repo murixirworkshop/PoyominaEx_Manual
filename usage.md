@@ -10,7 +10,7 @@ PoyominaExを導入すると、新たに"PoyoEx"がメニューに追加され�
 
 
 
-![Exmenu](Images/poyoex4.png)
+![Exmenu](Images/PoyoEx4.png)
 
 PoyoExを選択すると、サブメニューから以下の機能を使用できます。
 
@@ -27,4 +27,4 @@ PoyoExを選択すると、サブメニューから以下の機能を使用で�
 - **Well-used** 
   プライベートエリアの色味がよく使い込まれた感じに変化します。
 
-![Exmenu2](Images/poyoex5.png)
+![Exmenu2](Images/PoyoEx5.png)
