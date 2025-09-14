@@ -46,7 +46,7 @@ Hierarchy上のポヨミナに、PoyominaEx.prefabをドラッグ&ドロップ�
 2. 06_Poyomina_ExBody.mat および 06_Poyomina_ExBody_Dark.mat をInspectorから編集します。
    メインカラー2ndのテクスチャをポヨミナ(Poyomina)のBody2に使用しているテクスチャ(通常は06_Poyomina_Body_Base_color.png)に変更してください。06_Poyomina_ExBody.mat および 06_Poyomina_ExBody_Dark.mat 共に設定をしてください。
 
-![image-20250914154858483](Images/PoyoEx3)
+![image-20250914154858483](Images/PoyoEx3.png)
 
 ## 7. **アップロード**  
 
